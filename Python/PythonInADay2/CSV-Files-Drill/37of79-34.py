@@ -1,0 +1,6 @@
+
+import sqlite3
+
+conn = sqlite3.connect('simpsons.db')
+
+conn.execute("CREATE TABLE SIMPSON_INFO(ID INTEGERPRIMARY KEY AUTOINCREMENT, NAME TEXT, GENDER TEXT, AGE INT, OCCUPATION TEXT);")
