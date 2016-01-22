@@ -1,1 +1,2 @@
-Database exercises
+Database exercises sql
+
