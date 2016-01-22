@@ -3,7 +3,7 @@ import os, csv
 currentPath = os.path.dirname( os.path.abspath("__file__"))
 print currentPath
 
-# Make the spreadsheet path
+# Make the spreadsheet path testing
 inputCsv = currentPath + '/spreadsheet.csv'
 print inputCsv
 
