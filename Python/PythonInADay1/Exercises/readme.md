@@ -1,1 +1,1 @@
-Python In A Day 1 Exercises
+Python In A Day 1 - Exercises
