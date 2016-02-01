@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\SealedClass\SealedClass\bin\Debug\SealedClass.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\SealedClass\SealedClass\obj\Debug\SealedClass.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\SealedClass\SealedClass\bin\Debug\SealedClass.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\SealedClass\SealedClass\bin\Debug\SealedClass.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\SealedClass\SealedClass\obj\Debug\SealedClass.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\SealedClass\SealedClass\obj\Debug\SealedClass.pdb

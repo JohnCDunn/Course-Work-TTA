@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 11 of 63\Program1\Program1\bin\Debug\Program1.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 11 of 63\Program1\Program1\bin\Debug\Program1.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 11 of 63\Program1\Program1\bin\Debug\Program1.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 11 of 63\Program1\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 11 of 63\Program1\Program1\obj\Debug\Program1.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 11 of 63\Program1\Program1\obj\Debug\Program1.pdb

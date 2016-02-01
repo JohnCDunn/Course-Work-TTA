@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.pdb

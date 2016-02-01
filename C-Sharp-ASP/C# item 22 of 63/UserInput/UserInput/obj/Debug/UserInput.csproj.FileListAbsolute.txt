@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\UserInput\UserInput\bin\Debug\UserInput.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\UserInput\UserInput\bin\Debug\UserInput.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\UserInput\UserInput\bin\Debug\UserInput.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\UserInput\UserInput\obj\Debug\UserInput.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\UserInput\UserInput\obj\Debug\UserInput.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\UserInput\UserInput\obj\Debug\UserInput.pdb

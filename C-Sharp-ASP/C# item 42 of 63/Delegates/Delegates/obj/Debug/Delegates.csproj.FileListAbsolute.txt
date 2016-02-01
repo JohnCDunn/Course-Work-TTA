@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\Delegates\Delegates\obj\Debug\Delegates.pdb

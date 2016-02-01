@@ -1,0 +1,10 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\EntityState\EntityState\bin\Debug\EntityState.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\EntityState\EntityState\bin\Debug\EntityState.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\EntityState\EntityState\bin\Debug\EntityState.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\EntityState\EntityState\bin\Debug\EntityFramework.dll
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\EntityState\EntityState\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\EntityState\EntityState\bin\Debug\EntityFramework.xml
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\EntityState\EntityState\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\EntityState\EntityState\obj\Debug\EntityState.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\EntityState\EntityState\obj\Debug\EntityState.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\EntityState\EntityState\obj\Debug\EntityState.pdb

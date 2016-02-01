@@ -1,0 +1,10 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\ExecutingSQL\ExecutingSQL\bin\Debug\ExecutingSQL.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\ExecutingSQL\ExecutingSQL\bin\Debug\ExecutingSQL.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\ExecutingSQL\ExecutingSQL\bin\Debug\ExecutingSQL.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\ExecutingSQL\ExecutingSQL\bin\Debug\EntityFramework.dll
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\ExecutingSQL\ExecutingSQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\ExecutingSQL\ExecutingSQL\bin\Debug\EntityFramework.xml
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\ExecutingSQL\ExecutingSQL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\ExecutingSQL\ExecutingSQL\obj\Debug\ExecutingSQL.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\ExecutingSQL\ExecutingSQL\obj\Debug\ExecutingSQL.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\ExecutingSQL\ExecutingSQL\obj\Debug\ExecutingSQL.pdb

@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\FormattingStrings\FormattingStrings\bin\Debug\FormattingStrings.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\FormattingStrings\FormattingStrings\bin\Debug\FormattingStrings.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\FormattingStrings\FormattingStrings\bin\Debug\FormattingStrings.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\FormattingStrings\FormattingStrings\obj\Debug\FormattingStrings.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\FormattingStrings\FormattingStrings\obj\Debug\FormattingStrings.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\FormattingStrings\FormattingStrings\obj\Debug\FormattingStrings.pdb

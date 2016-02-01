@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Lists\Lists\bin\Debug\Lists.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Lists\Lists\bin\Debug\Lists.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Lists\Lists\bin\Debug\Lists.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Lists\Lists\obj\Debug\Lists.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Lists\Lists\obj\Debug\Lists.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Lists\Lists\obj\Debug\Lists.pdb

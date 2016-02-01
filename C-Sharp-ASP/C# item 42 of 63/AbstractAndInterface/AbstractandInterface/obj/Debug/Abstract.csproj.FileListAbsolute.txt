@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\AbstractandInterface\AbstractandInterface\bin\Debug\AbstractandInterface.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\AbstractandInterface\AbstractandInterface\bin\Debug\AbstractandInterface.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\AbstractandInterface\AbstractandInterface\bin\Debug\AbstractandInterface.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\AbstractandInterface\AbstractandInterface\obj\Debug\AbstractandInterface.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\AbstractandInterface\AbstractandInterface\obj\Debug\AbstractandInterface.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\AbstractAndInterface\AbstractandInterface\obj\Debug\Abstract.csprojResolveAssemblyReference.cache

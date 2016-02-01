@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Calculator3\Calculator3\bin\Debug\Calculator3.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Calculator3\Calculator3\bin\Debug\Calculator3.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Calculator3\Calculator3\bin\Debug\Calculator3.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Calculator3\Calculator3\obj\Debug\Calculator3.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Calculator3\Calculator3\obj\Debug\Calculator3.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Calculator3\Calculator3\obj\Debug\Calculator3.pdb

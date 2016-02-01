@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\Interfaces\Interfaces\obj\Debug\Interfaces.pdb

@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ObjectInitializer\ObjectInitializer\bin\Debug\ObjectInitializer.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ObjectInitializer\ObjectInitializer\bin\Debug\ObjectInitializer.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ObjectInitializer\ObjectInitializer\bin\Debug\ObjectInitializer.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ObjectInitializer\ObjectInitializer\obj\Debug\ObjectInitializer.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ObjectInitializer\ObjectInitializer\obj\Debug\ObjectInitializer.pdb

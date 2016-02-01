@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\Enumerable\Enumerable\bin\Debug\Enumerable.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\Enumerable\Enumerable\bin\Debug\Enumerable.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\Enumerable\Enumerable\bin\Debug\Enumerable.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\Enumerable\Enumerable\obj\Debug\Enumerable.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\Enumerable\Enumerable\obj\Debug\Enumerable.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\Enumerable\Enumerable\obj\Debug\Enumerable.pdb

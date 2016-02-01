@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\funwithstrings\funwithstrings\bin\Debug\funwithstrings.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\funwithstrings\funwithstrings\bin\Debug\funwithstrings.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\funwithstrings\funwithstrings\bin\Debug\funwithstrings.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\funwithstrings\funwithstrings\obj\Debug\funwithstrings.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\funwithstrings\funwithstrings\obj\Debug\funwithstrings.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\funwithstrings\funwithstrings\obj\Debug\funwithstrings.pdb

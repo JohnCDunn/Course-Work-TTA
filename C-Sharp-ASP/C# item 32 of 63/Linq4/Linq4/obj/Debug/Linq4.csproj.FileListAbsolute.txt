@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 32 of 63\Linq4\Linq4\bin\Debug\Linq4.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 32 of 63\Linq4\Linq4\bin\Debug\Linq4.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 32 of 63\Linq4\Linq4\bin\Debug\Linq4.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 32 of 63\Linq4\Linq4\obj\Debug\Linq4.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 32 of 63\Linq4\Linq4\obj\Debug\Linq4.pdb

@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\ValueVSReferenceTypes\ValueVSReferenceTypes\bin\Debug\ValueVSReferenceTypes.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\ValueVSReferenceTypes\ValueVSReferenceTypes\obj\Debug\ValueVSReferenceTypes.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\ValueVSReferenceTypes\ValueVSReferenceTypes\bin\Debug\ValueVSReferenceTypes.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\ValueVSReferenceTypes\ValueVSReferenceTypes\bin\Debug\ValueVSReferenceTypes.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\ValueVSReferenceTypes\ValueVSReferenceTypes\obj\Debug\ValueVSReferenceTypes.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\ValueVSReferenceTypes\ValueVSReferenceTypes\obj\Debug\ValueVSReferenceTypes.pdb

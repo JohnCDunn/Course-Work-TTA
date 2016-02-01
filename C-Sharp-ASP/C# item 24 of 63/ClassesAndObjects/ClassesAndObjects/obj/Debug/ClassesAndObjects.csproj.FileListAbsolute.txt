@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb

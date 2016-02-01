@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\DataTypes\DataTypes\bin\Debug\DataTypes.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\DataTypes\DataTypes\bin\Debug\DataTypes.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\DataTypes\DataTypes\bin\Debug\DataTypes.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\DataTypes\DataTypes\obj\Debug\DataTypes.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\DataTypes\DataTypes\obj\Debug\DataTypes.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\DataTypes\DataTypes\obj\Debug\DataTypes.pdb

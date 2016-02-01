@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\Constructors\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\Constructors\Constructors\bin\Debug\Constructors.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\Constructors\Constructors\bin\Debug\Constructors.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\Constructors\Constructors\obj\Debug\Constructors.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\Constructors\Constructors\obj\Debug\Constructors.pdb

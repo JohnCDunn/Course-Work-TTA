@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 26 of 63\FileIO\FileIO\bin\Debug\FileIO.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 26 of 63\FileIO\FileIO\bin\Debug\FileIO.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 26 of 63\FileIO\FileIO\bin\Debug\FileIO.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 26 of 63\FileIO\FileIO\obj\Debug\FileIO.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 26 of 63\FileIO\FileIO\obj\Debug\FileIO.pdb

@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\SwitchBreakContinue\SwitchBreakContinue\bin\Debug\SwitchBreakContinue.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\SwitchBreakContinue\SwitchBreakContinue\bin\Debug\SwitchBreakContinue.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\SwitchBreakContinue\SwitchBreakContinue\bin\Debug\SwitchBreakContinue.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\SwitchBreakContinue\SwitchBreakContinue\obj\Debug\SwitchBreakContinue.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\SwitchBreakContinue\SwitchBreakContinue\obj\Debug\SwitchBreakContinue.pdb

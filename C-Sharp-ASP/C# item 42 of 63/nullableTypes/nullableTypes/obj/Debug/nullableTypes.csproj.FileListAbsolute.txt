@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\nullableTypes\nullableTypes\bin\Debug\nullableTypes.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\nullableTypes\nullableTypes\bin\Debug\nullableTypes.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\nullableTypes\nullableTypes\bin\Debug\nullableTypes.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\nullableTypes\nullableTypes\obj\Debug\nullableTypes.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\nullableTypes\nullableTypes\obj\Debug\nullableTypes.pdb

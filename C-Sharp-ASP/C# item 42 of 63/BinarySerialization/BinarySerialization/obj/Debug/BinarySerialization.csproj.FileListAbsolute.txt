@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\BinarySerialization\BinarySerialization\bin\Debug\BinarySerialization.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\BinarySerialization\BinarySerialization\obj\Debug\BinarySerialization.pdb

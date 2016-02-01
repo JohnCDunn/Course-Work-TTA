@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\MathFunctions\MathFunctions\bin\Debug\MathFunctions.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\MathFunctions\MathFunctions\bin\Debug\MathFunctions.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\MathFunctions\MathFunctions\bin\Debug\MathFunctions.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\MathFunctions\MathFunctions\obj\Debug\MathFunctions.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\MathFunctions\MathFunctions\obj\Debug\MathFunctions.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\MathFunctions\MathFunctions\obj\Debug\MathFunctions.pdb

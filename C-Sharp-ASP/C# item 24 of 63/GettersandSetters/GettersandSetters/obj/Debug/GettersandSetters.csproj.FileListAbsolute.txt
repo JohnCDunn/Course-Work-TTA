@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\GettersandSetters\GettersandSetters\bin\Debug\GettersandSetters.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\GettersandSetters\GettersandSetters\bin\Debug\GettersandSetters.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\GettersandSetters\GettersandSetters\bin\Debug\GettersandSetters.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\GettersandSetters\GettersandSetters\obj\Debug\GettersandSetters.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\GettersandSetters\GettersandSetters\obj\Debug\GettersandSetters.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\GettersandSetters\GettersandSetters\obj\Debug\GettersandSetters.pdb

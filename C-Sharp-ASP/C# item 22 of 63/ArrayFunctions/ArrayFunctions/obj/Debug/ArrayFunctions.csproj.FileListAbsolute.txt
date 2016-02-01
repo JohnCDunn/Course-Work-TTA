@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\ArrayFunctions\ArrayFunctions\bin\Debug\ArrayFunctions.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\ArrayFunctions\ArrayFunctions\bin\Debug\ArrayFunctions.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\ArrayFunctions\ArrayFunctions\bin\Debug\ArrayFunctions.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\ArrayFunctions\ArrayFunctions\obj\Debug\ArrayFunctions.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\ArrayFunctions\ArrayFunctions\obj\Debug\ArrayFunctions.pdb

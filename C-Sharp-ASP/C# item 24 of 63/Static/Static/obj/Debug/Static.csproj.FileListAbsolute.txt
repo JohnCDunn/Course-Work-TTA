@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\Static\Static\bin\Debug\Static.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\Static\Static\bin\Debug\Static.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\Static\Static\bin\Debug\Static.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\Static\Static\obj\Debug\Static.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\Static\Static\obj\Debug\Static.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\Static\Static\obj\Debug\Static.pdb

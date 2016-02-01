@@ -1,0 +1,12 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\InternalProtectedInternal\bin\Debug\InternalProtectedInternal.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\InternalProtectedInternal\bin\Debug\InternalProtectedInternal.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\InternalProtectedInternal\bin\Debug\InternalProtectedInternal.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\InternalProtectedInternal\obj\Debug\InternalProtectedInternal.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\InternalProtectedInternal\obj\Debug\InternalProtectedInternal.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\InternalProtectedInternal\obj\Debug\InternalProtectedInternal.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\InternalProtectedInternal\bin\Debug\Assembly1.dll
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\InternalProtectedInternal\bin\Debug\Assembly1.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\InternalProtectedInternal\bin\Debug\Assembly2.dll
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\InternalProtectedInternal\bin\Debug\Assembly2.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\InternalProtectedInternal\bin\Debug\AssemblyThree.dll
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\InternalProtectedInternal\bin\Debug\AssemblyThree.pdb

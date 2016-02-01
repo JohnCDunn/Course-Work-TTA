@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\AssemblyThree\bin\Debug\AssemblyThree.dll
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\AssemblyThree\bin\Debug\AssemblyThree.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\AssemblyThree\obj\Debug\AssemblyThree.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\AssemblyThree\obj\Debug\AssemblyThree.dll
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\AssemblyThree\obj\Debug\AssemblyThree.pdb

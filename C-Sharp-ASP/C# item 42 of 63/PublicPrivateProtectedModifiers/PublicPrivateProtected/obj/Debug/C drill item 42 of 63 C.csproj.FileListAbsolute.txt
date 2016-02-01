@@ -1,0 +1,15 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\C drill item 42 of 63 C\C drill item 42 of 63 C\bin\Debug\C drill item 42 of 63 C.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\C drill item 42 of 63 C\C drill item 42 of 63 C\bin\Debug\C drill item 42 of 63 C.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\C drill item 42 of 63 C\C drill item 42 of 63 C\bin\Debug\C drill item 42 of 63 C.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\C drill item 42 of 63 C\C drill item 42 of 63 C\obj\Debug\C drill item 42 of 63 C.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\C drill item 42 of 63 C\C drill item 42 of 63 C\obj\Debug\C drill item 42 of 63 C.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\C drill item 42 of 63 C\C drill item 42 of 63 C\obj\Debug\C drill item 42 of 63 C.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\C drill item 42 of 63 C\C drill item 42 of 63 C\bin\Debug\C drill item 42 of 63 C.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\C drill item 42 of 63 C\C drill item 42 of 63 C\obj\Debug\C drill item 42 of 63 C.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\C drill item 42 of 63 C\C drill item 42 of 63 C\obj\Debug\C drill item 42 of 63 C.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\C drill item 42 of 63 C\C drill item 42 of 63 C\obj\Debug\C drill item 42 of 63 C.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\C drill item 42 of 63 C\C drill item 42 of 63 C\bin\Debug\C drill item 42 of 63 C.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\C drill item 42 of 63 C\C drill item 42 of 63 C\bin\Debug\C drill item 42 of 63 C.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\AccessModifiers\C drill item 42 of 63 C\bin\Debug\C drill item 42 of 63 C.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\AccessModifiers\C drill item 42 of 63 C\obj\Debug\C drill item 42 of 63 C.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\AccessModifiers\C drill item 42 of 63 C\obj\Debug\C drill item 42 of 63 C.pdb

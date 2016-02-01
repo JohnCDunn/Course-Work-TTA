@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\IfThenElse\IfThenElse\bin\Debug\IfThenElse.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\IfThenElse\IfThenElse\bin\Debug\IfThenElse.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\IfThenElse\IfThenElse\obj\Debug\IfThenElse.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\IfThenElse\IfThenElse\obj\Debug\IfThenElse.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\IfThenElse\IfThenElse\obj\Debug\IfThenElse.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\IfThenElse\IfThenElse\bin\Debug\IfThenElse.pdb

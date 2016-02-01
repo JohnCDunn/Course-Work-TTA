@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 46 of 63\DailyFileTreansfer\DailyFileTreansfer\bin\Debug\DailyFileTreansfer.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 46 of 63\DailyFileTreansfer\DailyFileTreansfer\bin\Debug\DailyFileTreansfer.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 46 of 63\DailyFileTreansfer\DailyFileTreansfer\bin\Debug\DailyFileTreansfer.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 46 of 63\DailyFileTreansfer\DailyFileTreansfer\obj\Debug\DailyFileTreansfer.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 46 of 63\DailyFileTreansfer\DailyFileTreansfer\obj\Debug\DailyFileTreansfer.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 46 of 63\DailyFileTreansfer\DailyFileTreansfer\obj\Debug\DailyFileTreansfer.pdb

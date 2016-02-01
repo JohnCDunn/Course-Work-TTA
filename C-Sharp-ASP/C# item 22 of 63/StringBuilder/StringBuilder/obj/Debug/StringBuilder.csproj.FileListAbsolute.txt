@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\StringBuilder\StringBuilder\bin\Debug\StringBuilder.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\StringBuilder\StringBuilder\obj\Debug\StringBuilder.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\StringBuilder\StringBuilder\obj\Debug\StringBuilder.pdb

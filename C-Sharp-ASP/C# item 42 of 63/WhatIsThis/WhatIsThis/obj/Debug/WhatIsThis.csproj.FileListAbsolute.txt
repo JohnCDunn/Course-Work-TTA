@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\WhatIsThis\WhatIsThis\bin\Debug\WhatIsThis.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\WhatIsThis\WhatIsThis\bin\Debug\WhatIsThis.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\WhatIsThis\WhatIsThis\bin\Debug\WhatIsThis.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\WhatIsThis\WhatIsThis\obj\Debug\WhatIsThis.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\WhatIsThis\WhatIsThis\obj\Debug\WhatIsThis.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\WhatIsThis\WhatIsThis\obj\Debug\WhatIsThis.pdb

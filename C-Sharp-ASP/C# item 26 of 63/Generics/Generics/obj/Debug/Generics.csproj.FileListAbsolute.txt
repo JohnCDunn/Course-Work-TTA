@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 26 of 63\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 26 of 63\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 26 of 63\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 26 of 63\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 26 of 63\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 26 of 63\Generics\Generics\obj\Debug\Generics.pdb

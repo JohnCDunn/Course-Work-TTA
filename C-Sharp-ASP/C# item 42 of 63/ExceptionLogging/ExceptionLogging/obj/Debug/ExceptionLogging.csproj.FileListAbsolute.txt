@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\ExceptionLogging\ExceptionLogging\bin\Debug\ExceptionLogging.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\ExceptionLogging\ExceptionLogging\bin\Debug\ExceptionLogging.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\ExceptionLogging\ExceptionLogging\bin\Debug\ExceptionLogging.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\ExceptionLogging\ExceptionLogging\obj\Debug\ExceptionLogging.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\ExceptionLogging\ExceptionLogging\obj\Debug\ExceptionLogging.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\ExceptionLogging\ExceptionLogging\obj\Debug\ExceptionLogging.pdb

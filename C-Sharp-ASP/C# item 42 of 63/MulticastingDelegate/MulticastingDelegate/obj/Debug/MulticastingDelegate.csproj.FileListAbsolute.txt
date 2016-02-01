@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\MulticastingDelegate\MulticastingDelegate\bin\Debug\MulticastingDelegate.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\MulticastingDelegate\MulticastingDelegate\bin\Debug\MulticastingDelegate.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\MulticastingDelegate\MulticastingDelegate\bin\Debug\MulticastingDelegate.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\MulticastingDelegate\MulticastingDelegate\obj\Debug\MulticastingDelegate.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\MulticastingDelegate\MulticastingDelegate\obj\Debug\MulticastingDelegate.pdb

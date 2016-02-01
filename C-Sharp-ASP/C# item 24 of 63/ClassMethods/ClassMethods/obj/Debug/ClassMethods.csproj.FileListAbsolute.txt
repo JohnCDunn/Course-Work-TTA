@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ClassMethods\ClassMethods\bin\Debug\ClassMethods.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ClassMethods\ClassMethods\bin\Debug\ClassMethods.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ClassMethods\ClassMethods\bin\Debug\ClassMethods.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ClassMethods\ClassMethods\obj\Debug\ClassMethods.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ClassMethods\ClassMethods\obj\Debug\ClassMethods.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ClassMethods\ClassMethods\obj\Debug\ClassMethods.pdb

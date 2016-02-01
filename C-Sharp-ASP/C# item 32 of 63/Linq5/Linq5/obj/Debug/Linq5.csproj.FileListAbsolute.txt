@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 32 of 63\Linq5\Linq5\bin\Debug\Linq5.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 32 of 63\Linq5\Linq5\bin\Debug\Linq5.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 32 of 63\Linq5\Linq5\bin\Debug\Linq5.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 32 of 63\Linq5\Linq5\obj\Debug\Linq5.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 32 of 63\Linq5\Linq5\obj\Debug\Linq5.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 32 of 63\Linq5\Linq5\obj\Debug\Linq5.pdb

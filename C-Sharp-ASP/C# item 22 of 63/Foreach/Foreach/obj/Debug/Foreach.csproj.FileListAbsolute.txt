@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Foreach\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Foreach\Foreach\bin\Debug\Foreach.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Foreach\Foreach\bin\Debug\Foreach.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Foreach\Foreach\obj\Debug\Foreach.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Foreach\Foreach\obj\Debug\Foreach.pdb

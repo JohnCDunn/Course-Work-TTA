@@ -1,0 +1,10 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\EFDemoA\EFDemoA\bin\Debug\EFDemoA.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\EFDemoA\EFDemoA\bin\Debug\EFDemoA.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\EFDemoA\EFDemoA\bin\Debug\EFDemoA.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\EFDemoA\EFDemoA\bin\Debug\EntityFramework.dll
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\EFDemoA\EFDemoA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\EFDemoA\EFDemoA\bin\Debug\EntityFramework.xml
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\EFDemoA\EFDemoA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\EFDemoA\EFDemoA\obj\Debug\EFDemoA.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\EFDemoA\EFDemoA\obj\Debug\EFDemoA.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\EFDemoA\EFDemoA\obj\Debug\EFDemoA.pdb

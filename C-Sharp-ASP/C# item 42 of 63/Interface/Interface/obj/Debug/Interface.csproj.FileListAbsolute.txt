@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\Interface\Interface\obj\Debug\Interface.pdb

@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

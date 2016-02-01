@@ -1,0 +1,3 @@
+c:\users\student\Documents\All My Essays\C#\Drills\EFDemoD\EFDemoD\bin\Debug\EFDemoD.exe.config
+C:\Users\Student\Documents\GitHub\Course-Work-TTA\C-Sharp-ASP\EFDemoD\EFDemoD\bin\Debug\EFDemoD.exe.config
+C:\Users\Student\Documents\GitHub\Course-Work-TTA\C-Sharp-ASP\EFDemoD\EFDemoD\obj\Debug\EFDemoD.csprojResolveAssemblyReference.cache

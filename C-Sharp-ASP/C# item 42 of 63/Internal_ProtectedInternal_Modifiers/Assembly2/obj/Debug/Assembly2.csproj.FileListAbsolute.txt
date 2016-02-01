@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\Assembly2\bin\Debug\Assembly2.dll
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\Assembly2\bin\Debug\Assembly2.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\Assembly2\obj\Debug\Assembly2.dll
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\Assembly2\obj\Debug\Assembly2.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\Assembly2\obj\Debug\Assembly2.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\Assembly2\bin\Debug\Assembly1.dll
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\InternalProtectedInternal\Assembly2\bin\Debug\Assembly1.pdb

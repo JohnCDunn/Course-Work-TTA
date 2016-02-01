@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Math\Math\bin\Debug\Math.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Math\Math\bin\Debug\Math.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Math\Math\bin\Debug\Math.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Math\Math\obj\Debug\Math.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 22 of 63\Math\Math\obj\Debug\Math.pdb

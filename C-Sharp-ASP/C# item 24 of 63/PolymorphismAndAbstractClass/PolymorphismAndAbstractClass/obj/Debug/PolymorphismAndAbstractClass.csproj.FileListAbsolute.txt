@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\PolymorphismAndAbstractClass\PolymorphismAndAbstractClass\bin\Debug\PolymorphismAndAbstractClass.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\PolymorphismAndAbstractClass\PolymorphismAndAbstractClass\obj\Debug\PolymorphismAndAbstractClass.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\PolymorphismAndAbstractClass\PolymorphismAndAbstractClass\bin\Debug\PolymorphismAndAbstractClass.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\PolymorphismAndAbstractClass\PolymorphismAndAbstractClass\bin\Debug\PolymorphismAndAbstractClass.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\PolymorphismAndAbstractClass\PolymorphismAndAbstractClass\obj\Debug\PolymorphismAndAbstractClass.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 24 of 63\PolymorphismAndAbstractClass\PolymorphismAndAbstractClass\obj\Debug\PolymorphismAndAbstractClass.pdb

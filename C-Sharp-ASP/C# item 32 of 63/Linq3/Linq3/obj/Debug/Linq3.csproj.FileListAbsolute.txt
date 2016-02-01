@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 32 of 63\Linq3\Linq3\bin\Debug\Linq3.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 32 of 63\Linq3\Linq3\bin\Debug\Linq3.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 32 of 63\Linq3\Linq3\bin\Debug\Linq3.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 32 of 63\Linq3\Linq3\obj\Debug\Linq3.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 32 of 63\Linq3\Linq3\obj\Debug\Linq3.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 32 of 63\Linq3\Linq3\obj\Debug\Linq3.csprojResolveAssemblyReference.cache

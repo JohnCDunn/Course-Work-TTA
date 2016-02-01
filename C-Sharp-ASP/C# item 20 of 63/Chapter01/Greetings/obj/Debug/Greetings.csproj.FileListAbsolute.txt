@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 20 of 63\Chapter01\Greetings\bin\Debug\Greetings.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 20 of 63\Chapter01\Greetings\bin\Debug\Greetings.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 20 of 63\Chapter01\Greetings\bin\Debug\Greetings.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 20 of 63\Chapter01\Greetings\obj\Debug\Greetings.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 20 of 63\Chapter01\Greetings\obj\Debug\Greetings.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 20 of 63\Chapter01\Greetings\obj\Debug\Greetings.pdb

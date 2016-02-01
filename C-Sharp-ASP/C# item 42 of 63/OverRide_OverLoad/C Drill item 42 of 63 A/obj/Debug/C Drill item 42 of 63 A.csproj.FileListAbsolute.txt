@@ -1,0 +1,12 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\C Drill item 42 of 63\C Drill item 42 of 63\obj\Debug\C Drill item 42 of 63 A.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\C Drill item 42 of 63\C Drill item 42 of 63\bin\Debug\C Drill item 42 of 63.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\C Drill item 42 of 63\C Drill item 42 of 63\bin\Debug\C Drill item 42 of 63.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\C Drill item 42 of 63\C Drill item 42 of 63\bin\Debug\C Drill item 42 of 63.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\C Drill item 42 of 63\C Drill item 42 of 63\obj\Debug\C Drill item 42 of 63.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 39 of 63\C Drill item 42 of 63\C Drill item 42 of 63\obj\Debug\C Drill item 42 of 63.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\C Drill item 42 of 63\C Drill item 42 of 63\bin\Debug\C Drill item 42 of 63.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\C Drill item 42 of 63\C Drill item 42 of 63\obj\Debug\C Drill item 42 of 63.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\C Drill item 42 of 63\C Drill item 42 of 63\obj\Debug\C Drill item 42 of 63.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\C Drill item 42 of 63 A\C Drill item 42 of 63 A\bin\Debug\C Drill item 42 of 63.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\C Drill item 42 of 63 A\C Drill item 42 of 63 A\obj\Debug\C Drill item 42 of 63.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 42 of 63\C Drill item 42 of 63 A\C Drill item 42 of 63 A\obj\Debug\C Drill item 42 of 63.pdb

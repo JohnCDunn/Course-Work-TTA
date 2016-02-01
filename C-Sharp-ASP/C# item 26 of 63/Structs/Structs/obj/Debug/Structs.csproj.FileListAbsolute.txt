@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 26 of 63\Structs\Structs\bin\Debug\Structs.exe.config
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 26 of 63\Structs\Structs\bin\Debug\Structs.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 26 of 63\Structs\Structs\bin\Debug\Structs.pdb
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 26 of 63\Structs\Structs\obj\Debug\Structs.exe
+C:\Users\Student\Documents\All My Essays\C#\Drills\C# item 26 of 63\Structs\Structs\obj\Debug\Structs.pdb
